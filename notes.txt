@@ -1,0 +1,18 @@
+nama database = pengaduan
+
+login admin
+username = michaelriotan
+password = luminoso1
+
+login petugas
+username = admin
+password = admin
+
+login masyarakat 
+username = adrian
+password = 123123
+
+untuk register admin
+masukkan password dlu
+lakukkan proses 2 kali
+password = admin
